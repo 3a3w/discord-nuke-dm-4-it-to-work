@@ -25,6 +25,7 @@ NOTES:
 - Ensure you have admin permissions to add the bot.
 - Bot permissions are set to "Administrator (8)".
 - Dm owner so he can make the bot go online.
+- if bot is online use cmd ,nuke
 
 --------------------------------------------------------------
 
